@@ -1,0 +1,33 @@
+{
+  "name": "gcloud-funcs-storage",
+  "version": "1.0.0",
+  "description": "Google Cloud Functions example showing how to upload file using formidable.",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/storage": "^1.1.1",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolangom/gcloud-funcs-storage.git"
+  },
+  "keywords": [
+    "Google",
+    "Cloud",
+    "Functions",
+    "Storage",
+    "Formidable",
+    "Node",
+    "Javascript"
+  ],
+  "author": "rolangom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolangom/gcloud-funcs-storage/issues"
+  },
+  "homepage": "https://github.com/rolangom/gcloud-funcs-storage#readme"
+}
